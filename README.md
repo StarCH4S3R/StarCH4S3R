@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @StarCH4S3R
+- 👋 Hi, My handle is @StarCH4S3R
 - 👀 I’m interested in building humanity towards the stars.
-- 🌱 I’m currently expanding my understanding further in software engineering.
-- 💞️ I’m looking to collaborate on more remote design work.
+- 🌱 Currently, I am expanding my understanding further in software engineering.
+- 💞️ Need a website designer, developer, and fixer? Also I do WordPress like no other.
+- ✨ Open for Employment.
 
 <!---
 StarCH4S3R/StarCH4S3R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
